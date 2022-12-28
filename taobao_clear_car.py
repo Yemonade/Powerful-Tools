@@ -55,6 +55,7 @@ class TaoBaoClearCarMachine(object):
                 except:
                     print("except")
                     time.sleep(0.1)
+                    # self.driver.refresh()
             time.sleep(0.1)
 
     # start buying
@@ -63,7 +64,7 @@ class TaoBaoClearCarMachine(object):
         self.order()
 
 
-# 2022-12-21 21:39:35
+# 2022-12-24 10:00:00
 if __name__ == '__main__':
     clear_time = input("Please input the time for clearing the order car: (format: 2022-12-20 12:00:00): ")
     p = TaoBaoClearCarMachine(clear_time)
