@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c4a27fc-a5a6-4852-92aa-d052abfe92b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FastBuy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PowerfulTools.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taobao_clear_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/taobao_clear_car.py" afterDir="false" />
-    </list>
+    <list default="true" id="9c4a27fc-a5a6-4852-92aa-d052abfe92b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +79,7 @@
       <workItem from="1671845931247" duration="766000" />
       <workItem from="1672217459817" duration="1341000" />
       <workItem from="1672218938618" duration="571000" />
-      <workItem from="1672219537238" duration="112000" />
+      <workItem from="1672219537238" duration="277000" />
     </task>
     <servers />
   </component>
